@@ -9,7 +9,6 @@ import urllib.request
 import json
 from geopy.geocoders import Nominatim
 
-
 endpoint='https://maps.googleapis.com/maps/api/geocode/json?address='
 key='AIzaSyDM8KzL_AFUOA9lfK7ZAFCo3I74k63jG24'
 

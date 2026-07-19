@@ -9,9 +9,6 @@ import urllib.request
 import json
 from geopy.geocoders import Nominatim
 
-
-
-
 app = Flask(__name__)
 
 
